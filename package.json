@@ -1,5 +1,5 @@
 {
-  "name": "@lottiefiles/react-lottie-player",
+  "name": "@ethanresnick/react-lottie-player",
   "version": "3.3.0",
   "description": "Lottie web player wrapper for React",
   "main": "./dist/lottie-react.js",
@@ -68,7 +68,7 @@
     "webpack": "^4.43.0"
   },
   "peerDependencies": {
-    "react": "^17.0.2"
+    "react": ">= 16.8.0 < 18"
   },
   "dependencies": {
     "lottie-web": "^5.7.8"
